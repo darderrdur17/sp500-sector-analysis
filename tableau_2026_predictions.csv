@@ -1,0 +1,7 @@
+Sector,predicted_return_pct,ci_lower,ci_upper,trend_slope,model_r2,model_mae,recommendation
+Technology,239.6,177.7,344.4,31.4,0.283,62.22,OVERWEIGHT
+Consumer,201.5,52.2,486.1,45.35,0.315,98.93,OVERWEIGHT
+Energy,126.4,57.3,190.7,41.34,0.379,63.23,OVERWEIGHT
+Finance,27.4,-67.6,95.9,2.62,0.005,43.94,OVERWEIGHT
+Utilities,25.9,-46.4,112.7,11.76,0.104,54.03,OVERWEIGHT
+Healthcare,-68.3,-121.6,39.5,-20.0,0.359,40.0,UNDERWEIGHT
