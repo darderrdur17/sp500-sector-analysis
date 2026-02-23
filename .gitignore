@@ -1,0 +1,17 @@
+# Keep checklist local only (resume/interview prep)
+CHECKLIST_AND_RESUME.md
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.Python
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
